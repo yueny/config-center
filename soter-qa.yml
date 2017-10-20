@@ -1,0 +1,6 @@
+info:
+ profile: qa
+  
+cloud:
+   msg:
+      success: ${info.profile} OK

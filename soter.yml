@@ -1,0 +1,6 @@
+info:
+   profile: dev
+  
+cloud:
+   msg:
+      success: dev OK

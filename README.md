@@ -1,1 +1,1 @@
-# config-center
+# config-center 配置
